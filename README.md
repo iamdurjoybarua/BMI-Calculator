@@ -34,4 +34,4 @@ Contributions are welcome! If you have suggestions for improvements, error handl
 
 ## Author
 
-Durjoy Barua/https://github.com/iamdurjoybarua
+Durjoy Barua / https://github.com/iamdurjoybarua
